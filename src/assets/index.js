@@ -6,6 +6,7 @@ import web from "./web.png";
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import eye from "./eye.png";
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -36,6 +37,7 @@ import tesla from "./company/tesla.png";
 import bldr from "./company/bldr.png";
 import sngular from "./company/sngular.svg";
 import everis from "./company/everis.png";
+import indigo from "./company/indigo.png";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -87,4 +89,6 @@ export {
   chef,
   pizza,
   starwars,
+  eye,
+  indigo,
 };

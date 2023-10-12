@@ -37,6 +37,8 @@ import {
   chef,
   pizza,
   starwars,
+  eye,
+  indigo,
 } from "../assets";
 
 export const navLinks = [
@@ -60,8 +62,12 @@ const services = [
     icon: web,
   },
   {
-    title: "Frontend Architecture",
+    title: "Frontend Architect",
     icon: mobile,
+  },
+  {
+    title: "Fullstack Engineer",
+    icon: creator,
   },
   {
     title: "UX/UI Designer",
@@ -159,32 +165,52 @@ const experiences = [
       "I was part of the team that worked on the Balance Transfer and ACH product, handling sensitive data and realtime transactions improving app’s speed and security.",
     ],
   },
+  {
+    title: "SOFTWARE ENGINEER",
+    company_name: "Indigo",
+    icon: indigo,
+    iconBg: "#E6DEDD",
+    date: "Feb 2013 - May 2017",
+    points: [
+      "Spearheaded the development of a range of web applications and websites for various clients. These projects showcased a commitment to crafting tailored digital experiences, utilizing cutting-edge technologies to meet client objectives.",
+      "Implemented efficient design systems and component catalogues, streamlining the development process and ensuring a consistent and user-friendly interface across all projects. This optimization significantly enhanced the productivity of the design and development teams.",
+      "Pioneered the creation of Progressive Web Apps (PWAs) to provide clients with fast, reliable, and engaging mobile experiences. This initiative bolstered user engagement and satisfaction, making a substantial impact on clients' digital presence and success."
+    ],
+  },
 ];
 
 const testimonials = [
   {
     testimonial:
-      "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
-    name: "Sara Lee",
-    designation: "CFO",
-    company: "Acme Co",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+      "Every once in a while, one is fortunate to cross paths with excellent people: this has been my experience with Ricardo. Since the very first day of working together, Ricardo has always displayed a fantastic attitude, a willingness to learn and to improve himself and his work.",
+    name: "Joaquin Lopez",
+    designation: "Principal Engineer",
+    company: "Sngular",
+    image: "https://cdn.sanity.io/images/1rv0v8ta/production/627b59eeabfaa201c9a13cd18a9dc3ec1f122c59-956x838.png?rect=35,0,882,838",
   },
   {
     testimonial:
-      "I've never met a web developer who truly cares about their clients' success like Rick does.",
-    name: "Chris Brown",
-    designation: "COO",
-    company: "DEF Corp",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+      "Working with Ricardo was very enlightening. He is an A++ player; very intellectual and thinks outside of the box, circle and square. One thing that I found particularly impressive was his ability to learn new things at an accelerated rate.",
+    name: "Brandon Ward",
+    designation: "Lead Backend Engineer",
+    company: "Book Club",
+    image: "https://cdn.sanity.io/images/1rv0v8ta/production/807313e1125ba23469cedf38c5c552e8de432c66-684x612.png?rect=75,6,579,575",
   },
   {
     testimonial:
-      "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-    name: "Lisa Wang",
-    designation: "CTO",
-    company: "456 Enterprises",
-    image: "https://randomuser.me/api/portraits/women/6.jpg",
+      "I had the pleasure of working with Ricardo during my time at BBVA. He was a key resource for our development team and was always up for a challenge. He brings a great vibe to the working environment through his ideas and ideologies. The drive he possesses to learn and adapt quickly is a great asset of his.",
+    name: "Prajith Kumar",
+    designation: "Lead Frontend Engineer",
+    company: "eBay",
+    image: "https://cdn.sanity.io/images/1rv0v8ta/production/fd5d71670123aadeeb916746c084e30d5735cfb8-499x416.png?rect=56,15,384,389",
+  },
+  {
+    testimonial:
+    "Ricardo at Indigo was a key asset. Their work on design systems, component catalogues, and Progressive Web Apps significantly elevated our projects. His ability to create tailored web solutions for various clients was truly impressive.It was a pleasure to collaborate with such a skilled and dedicated professional.",
+    name: "Max Sayenko",
+    designation: "Lead Frontend Engineer",
+    company: "Tanium",
+    image: "https://media.licdn.com/dms/image/C5603AQE5Q5JZ5bcDww/profile-displayphoto-shrink_100_100/0/1517695283766?e=1702512000&v=beta&t=h9VDz0L7vBGO1YJ2POikQKNC4UVglHnbXe3AEIQx_JQ",
   },
 ];
 
