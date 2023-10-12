@@ -28,7 +28,7 @@ const Robot = ({ isMobile }) => {
       />
       <pointLight intensity={1} />
       <primitive
-        object={robotneon.scene}
+        object={robotneon?.scene}
         scale={isMobile ? [2, 2, 2] : [2, 2, 2]}
         position={[1, -3.25, -1.5]}
         rotation={[-0.01, 2, -0.01]}

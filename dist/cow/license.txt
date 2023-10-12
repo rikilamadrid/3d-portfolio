@@ -1,0 +1,11 @@
+Model Information:
+* title:	UFO Cow Abduction
+* source:	https://sketchfab.com/3d-models/ufo-cow-abduction-9535c6981cf540279fbe61674363519d
+* author:	Kaine_G (https://sketchfab.com/Zedeaa)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "UFO Cow Abduction" (https://sketchfab.com/3d-models/ufo-cow-abduction-9535c6981cf540279fbe61674363519d) by Kaine_G (https://sketchfab.com/Zedeaa) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

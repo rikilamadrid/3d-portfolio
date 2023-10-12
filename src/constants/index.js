@@ -51,6 +51,10 @@ export const navLinks = [
     title: "Work",
   },
   {
+    id: "feedbacks",
+    title: "Testimonials",
+  },
+  {
     id: "contact",
     title: "Contact",
   },
@@ -109,6 +113,10 @@ const technologies = [
     icon: threejs,
   },
   {
+    name: "Framer Motion",
+    icon: framermotion,
+  },
+  {
     name: "GraphQL",
     icon: graphql,
   },
@@ -123,10 +131,6 @@ const technologies = [
   {
     name: "Vite",
     icon: vite,
-  },
-  {
-    name: "Framer Motion",
-    icon: framermotion,
   },
 ];
 
